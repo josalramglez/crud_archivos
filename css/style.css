@@ -1,0 +1,16 @@
+h1 {
+    color: rgb(229, 253, 93);
+    text-align: center;
+  }
+
+  #izquierda {
+    float: right;
+        padding: 50px;
+
+    }
+    
+    #derecha {
+        float: right;
+        padding: 50px;
+
+    }
